@@ -10,6 +10,14 @@ def using_pop(continents)
   continents.pop
 end
 
-def pop_with_args (dog_breeds, integer = 2)
+def pop_with_args(dog_breeds, integer = 2)
   dog_breeds.pop(integer)
+end
+
+def using_shift()
+  
+end
+
+def shift_with_args()
+  
 end

@@ -14,7 +14,7 @@ def pop_with_args(dog_breeds, integer = 2)
   dog_breeds.pop(integer)
 end
 
-def using_shift()
+def using_shift(my_favorite_cities)
   
 end
 
